@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Go! Diggy production workflow</title>
+  <desc id="desc">Contract and fixed assets flow through storyboard, generation handoff, archiving, real audio editing, and evidence-backed QA.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#173625"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#173625" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="520" rx="28" fill="#fffaf0"/>
+  <text x="70" y="68" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#173625">Go! Diggy · 从固定资产到可交付证据</text>
+  <text x="70" y="105" font-family="Arial, sans-serif" font-size="18" fill="#5d6d63">每个阶段都有输入、状态和可以被检查的输出</text>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="180" width="180" height="170" rx="20" fill="#f5cf55"/>
+    <rect x="280" y="180" width="180" height="170" rx="20" fill="#f0a36c"/>
+    <rect x="500" y="180" width="180" height="170" rx="20" fill="#9bc7b4"/>
+    <rect x="720" y="180" width="180" height="170" rx="20" fill="#8db8d8"/>
+    <rect x="940" y="180" width="180" height="170" rx="20" fill="#d8b6cf"/>
+    <rect x="1160" y="180" width="180" height="170" rx="20" fill="#f3d8a8"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#173625">
+    <text x="150" y="220" font-size="22" font-weight="700">01 规范</text>
+    <text x="150" y="260" font-size="17">总规范 + 角色资产</text>
+    <text x="150" y="290" font-size="17">画幅 + 命名</text>
+    <text x="150" y="320" font-size="15">manifest / 状态</text>
+
+    <text x="370" y="220" font-size="22" font-weight="700">02 分镜</text>
+    <text x="370" y="260" font-size="17">问题 + 动作</text>
+    <text x="370" y="290" font-size="17">连续性锚点</text>
+    <text x="370" y="320" font-size="15">一镜一提示词</text>
+
+    <text x="590" y="220" font-size="22" font-weight="700">03 生成</text>
+    <text x="590" y="260" font-size="17">分镜图确认</text>
+    <text x="590" y="290" font-size="17">豆包提示词</text>
+    <text x="590" y="320" font-size="15">禁止文字/变形</text>
+
+    <text x="810" y="220" font-size="22" font-weight="700">04 归档</text>
+    <text x="810" y="260" font-size="17">用户下载</text>
+    <text x="810" y="290" font-size="17">候选版本</text>
+    <text x="810" y="320" font-size="15">01_原始镜头</text>
+
+    <text x="1030" y="220" font-size="22" font-weight="700">05 实际媒体</text>
+    <text x="1030" y="260" font-size="17">画面抽查</text>
+    <text x="1030" y="290" font-size="17">真实音频 / ASR</text>
+    <text x="1030" y="320" font-size="15">唯一时间线</text>
+
+    <text x="1250" y="220" font-size="22" font-weight="700">06 QA</text>
+    <text x="1250" y="260" font-size="17">抽帧 + 播放</text>
+    <text x="1250" y="290" font-size="17">字幕 + Logo</text>
+    <text x="1250" y="320" font-size="15">QA / 确认分开</text>
+  </g>
+
+  <g stroke="#173625" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M240 265 H270"/>
+    <path d="M460 265 H490"/>
+    <path d="M680 265 H710"/>
+    <path d="M900 265 H930"/>
+    <path d="M1120 265 H1150"/>
+  </g>
+  <text x="70" y="430" font-family="Arial, sans-serif" font-size="20" fill="#173625">核心：固定资产不漂移 · 对白来自真实音轨 · 每个状态都有证据</text>
+</svg>

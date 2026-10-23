@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "source": "../00_项目资料/合集封面/抖音合集_正片封面_ImageGen_1080x1080.png",
+      "file": "assets/gallery/collection-episodes.png",
+      "sha256": "4082f72bd52736cc3592808eae89ee1c9526747c10dd01c5adce17a274b2352a",
+      "bytes": 1996429,
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "source": "../00_项目资料/合集封面/抖音合集_花絮封面_ImageGen_1080x1080.png",
+      "file": "assets/gallery/collection-bloopers.png",
+      "sha256": "8b31270cc829fa33166be18fc19568ad9562376d2bddd09ffe1edd7894d00141",
+      "bytes": 2107903,
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "source": "../00_项目资料/角色_封面_分镜/01_角色设定/前30集固定人物参考/前30集_固定人物参考_小本迪奇罗利翻斗车.png",
+      "file": "assets/gallery/cast-core.png",
+      "sha256": "925bf8ef4555beb4f238d73fe0baaec873af63fe7d0132256d7234fed3576c9f",
+      "bytes": 1746429,
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "source": "../00_项目资料/角色_封面_分镜/01_角色设定/前30集固定人物参考/前30集_固定人物参考_工程车组A.png",
+      "file": "assets/gallery/cast-team-a.png",
+      "sha256": "ea052db26c0be81835f5ee6c4945903fa57bbeb78f2ba3899e7579988734a143",
+      "bytes": 1707470,
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "source": "../00_项目资料/角色_封面_分镜/01_角色设定/前30集固定人物参考/前30集_固定人物参考_工程车组B.png",
+      "file": "assets/gallery/cast-team-b.png",
+      "sha256": "408a63e2c373eab03672d3d9e6c36e6d412f49902cbf3d900284bc04918610b7",
+      "bytes": 1663928,
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "source": "../特辑_合并工程/03_封面/Go_Diggy_特辑01_Cover_Image2.5_English_Landscape_16x9_v03.png",
+      "file": "assets/gallery/compilation-en-landscape.png",
+      "sha256": "27b91a39f4f70c1b9a60de2ec98ab31fdc480ccf4ee0e005c25a7e0408b22bd1",
+      "bytes": 3029654,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "source": "../特辑_合并工程/03_封面/Go_Diggy_特辑01_封面_Image2.5_中文横版_4x3_v03.png",
+      "file": "assets/gallery/compilation-zh-landscape.png",
+      "sha256": "56d18863f60115123316bc67cdaeabd078cbf0cca4ec7982d16973f86bd51733",
+      "bytes": 2427158,
+      "dimensions": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "source": "../特辑_合并工程/03_封面/Go_Diggy_特辑01_封面_Image2.5_中文竖版_3x4_v03.png",
+      "file": "assets/gallery/compilation-zh-portrait.png",
+      "sha256": "fc2e8ead03beb8eef605e2410d29cbb2aeb4c3d4159cebb6cb40835e5cc1b4a3",
+      "bytes": 2302355,
+      "dimensions": [
+        1080,
+        1440
+      ]
+    },
+    {
+      "source": "../特辑_合并工程/03_封面/Go_Diggy_特辑01_Cover_Image2.5_English_Portrait_3x4_v03.png",
+      "file": "assets/gallery/compilation-en-portrait.png",
+      "sha256": "149163c5915cfc03a010d0a2263add70462ed6340df14d005e3803e5760f3484",
+      "bytes": 2415303,
+      "dimensions": [
+        1080,
+        1440
+      ]
+    },
+    {
+      "source": "../09_EP09_屋顶吊上去啦/05_成片交付/封面/EP09_The_Roof_Goes_Up_YouTube_English_16x9_v01.png",
+      "file": "assets/gallery/ep09-cover-en.png",
+      "sha256": "05d8ee6ffb548e9eb9d328788e686c29229e63e499ee4e29757eac4da8479a15",
+      "bytes": 2547346,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "source": "../11_EP11_港口断桥/02_分镜图/F_当前交付_v02_桥体故障/EP11_14镜头总览_v02.png",
+      "file": "assets/gallery/ep11-storyboard.png",
+      "sha256": "28bbe65a883ead0a16bc1b29a077e9c244477c64fc9f06dd492885be8657d6e8",
+      "bytes": 2247033,
+      "dimensions": [
+        1320,
+        760
+      ]
+    },
+    {
+      "source": "../11_EP11_港口断桥/02_分镜图/F_当前交付_v02_桥体故障/EP11_S04_到桥头前一切正常.png",
+      "file": "assets/gallery/ep11-s04.png",
+      "sha256": "b39a945316c6a17d919a8306a686a6a5ec608902da82d6cddd194773f140bbc4",
+      "bytes": 1707932,
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "source": "../11_EP11_港口断桥/02_分镜图/F_当前交付_v02_桥体故障/EP11_S05_桥体近岸段突然下沉.png",
+      "file": "assets/gallery/ep11-s05.png",
+      "sha256": "3e40c210b81dbdf48c0076c86c3ee0f8b6689f197db2a5b17fb92827ef604c4b",
+      "bytes": 1745696,
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "source": "../11_EP11_港口断桥/02_分镜图/F_当前交付_v02_桥体故障/EP11_S10_首次发现桥下支撑移位.png",
+      "file": "assets/gallery/ep11-s10.png",
+      "sha256": "8d01b4b2365294da122afcf4d6141091629646ed3c67933469263e9fadf07b79",
+      "bytes": 1598531,
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "source": "../11_EP11_港口断桥/02_分镜图/F_当前交付_v02_桥体故障/EP11_S14_桥面稳定灯具通过.png",
+      "file": "assets/gallery/ep11-s14.png",
+      "sha256": "1d6dca0a28a06063e664fc4078cbe81199ba16eb2f93569d38535eb99b7ad475",
+      "bytes": 1733656,
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "source": "../10_宣传片_30秒/brand_promo_montage_2x15_v01/06_成片/封面/Go_Diggy_品牌宣传片_中文版_参考EP09_v01_1920x1080.png",
+      "file": "assets/gallery/promo-cover.png",
+      "sha256": "085e4bb93305345a3698f762b3da025027edfa9b19901a46023057501c271daf",
+      "bytes": 3090021,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "source": "../10_宣传片_30秒/brand_promo_montage_2x15_v01/06_成片/Go_Diggy_品牌快剪_30秒_中文版_中文Logo_Image2人物字牌_v05.mp4",
+      "file": "demo/go-diggy-promo-zh.mp4",
+      "sha256": "641e26aef8ac0f68b2fcbe5b357790c8562445a9f7ce02e80ea60e59074cc643",
+      "bytes": 17973388,
+      "validation": "Full video/audio decode passed; no new full manual listening review"
+    },
+    {
+      "source": "../10_宣传片_30秒/brand_promo_montage_2x15_v01/06_成片/Go_Diggy_品牌快剪_30秒_英文版_英文Logo_Image2人物字牌_v05.mp4",
+      "file": "demo/go-diggy-promo-en.mp4",
+      "sha256": "2233b9f2043e3b5ab97d616e0df2bc8147e6f08725c94fe4583850765cb142fe",
+      "bytes": 17570383,
+      "validation": "Full video/audio decode passed; no new full manual listening review"
+    }
+  ]
+}

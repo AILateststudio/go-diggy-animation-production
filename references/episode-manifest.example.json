@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "project": "Go! Diggy",
+  "episode": "EP__",
+  "episode_title": "Replace with the current episode title",
+  "source_contract": {
+    "master_spec": "Go_Diggy_动画制作总规范.md",
+    "aspect_spec": "Go_Diggy_动画规范_横屏.md",
+    "workflow": "Go_Diggy_固定工作流.md",
+    "episode_notes": "unlocated",
+    "status": "draft"
+  },
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "aspect": "16:9",
+    "language_versions": ["zh-en", "en"]
+  },
+  "characters": [
+    {
+      "name_en": "Diggy",
+      "name_zh": "迪奇",
+      "asset_path": "project-assets/roles/Diggy_confirmed.png",
+      "state": "user_confirmed",
+      "integrity_notes": "Do not change face, proportion, color, material, or mechanical structure."
+    }
+  ],
+  "shots": [
+    {
+      "id": "S01",
+      "purpose": "Establish the location and the problem",
+      "continuity_anchor": "Replace with the previous/next object state",
+      "source_image": "storyboards/S01_reference.png",
+      "prompt_path": "prompts/S01.txt",
+      "video_path": "01_原始镜头/EP__-S01-candidate-v01.mp4",
+      "video_state": "candidate",
+      "audio_state": "unverified"
+    }
+  ],
+  "audio": {
+    "source": "archived_video_audio",
+    "asr_path": "audio/EP__-actual-asr.txt",
+    "status": "not_started",
+    "notes": "Do not copy dialogue from the storyboard into subtitles."
+  },
+  "subtitles": {
+    "status": "not_started",
+    "zh_en_path": "subtitles/EP__.zh-en.ass",
+    "en_path": "subtitles/EP__.en.ass",
+    "derived_from": "actual_final_audio"
+  },
+  "outputs": [
+    {
+      "path": "05_成片交付/EP__-clean-v01.mp4",
+      "variant": "clean",
+      "state": "candidate",
+      "sha256": "unrecorded"
+    },
+    {
+      "path": "05_成片交付/EP__-zh-en-v01.mp4",
+      "variant": "zh-en_subtitled",
+      "state": "candidate",
+      "sha256": "unrecorded"
+    }
+  ],
+  "qa": {
+    "status": "not_started",
+    "evidence": [],
+    "unverified_items": [
+      "actual audio",
+      "subtitle timing",
+      "full playback",
+      "user confirmation"
+    ]
+  },
+  "change_log": [
+    {
+      "version": "v01",
+      "date": "YYYY-MM-DD",
+      "summary": "Initial package; replace this entry with real evidence.",
+      "evidence": []
+    }
+  ]
+}

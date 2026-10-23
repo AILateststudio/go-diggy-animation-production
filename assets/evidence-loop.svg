@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-backed review loop</title>
+  <desc id="desc">A change is reviewed through before-after comparison, close-up frames, contact sheet, actual audio and subtitles, then a recorded state.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#173625"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="610" rx="28" fill="#f6fbf7"/>
+  <text x="70" y="68" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#173625">Evidence loop · 不接受没有证据的“已修复”</text>
+  <text x="70" y="105" font-family="Arial, sans-serif" font-size="18" fill="#5d6d63">每一次修改都要能回答：改了什么、问题在哪里、怎么证明改好</text>
+
+  <g stroke="#173625" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M600 160 C830 160 970 210 970 300"/>
+    <path d="M970 340 C970 460 830 500 690 500"/>
+    <path d="M610 500 C390 500 230 460 230 350"/>
+    <path d="M230 300 C230 210 370 160 510 160"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#173625">
+    <circle cx="600" cy="160" r="70" fill="#f0a36c"/>
+    <text x="600" y="154" font-size="22" font-weight="700">改动</text>
+    <text x="600" y="183" font-size="16">记录版本与原因</text>
+
+    <circle cx="970" cy="320" r="70" fill="#f5cf55"/>
+    <text x="970" y="314" font-size="20" font-weight="700">对比 / 特写</text>
+    <text x="970" y="343" font-size="16">问题尺度可见</text>
+
+    <circle cx="650" cy="500" r="70" fill="#9bc7b4"/>
+    <text x="650" y="494" font-size="21" font-weight="700">抽帧拼图</text>
+    <text x="650" y="523" font-size="16">状态连续性</text>
+
+    <circle cx="230" cy="320" r="70" fill="#8db8d8"/>
+    <text x="230" y="314" font-size="20" font-weight="700">听音频 / 字幕</text>
+    <text x="230" y="343" font-size="16">真实语音证据</text>
+
+    <circle cx="510" cy="160" r="70" fill="#d8b6cf"/>
+    <text x="510" y="154" font-size="21" font-weight="700">记录状态</text>
+    <text x="510" y="183" font-size="16">验证 / 阻塞 / 待补</text>
+  </g>
+
+  <path d="M600 265 C580 320 580 395 610 430" stroke="#173625" stroke-width="3" stroke-dasharray="8 8" fill="none"/>
+  <text x="600" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#173625">证据</text>
+  <text x="600" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5d6d63">让“完成”可被别人复核</text>
+</svg>

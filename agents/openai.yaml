@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go! Diggy Production"
+  short_description: "Turn fixed characters into traceable episode packages"
+  default_prompt: "Use $go-diggy-animation-production to turn this Go! Diggy brief into a traceable storyboard, asset handoff, and evidence-backed delivery package."
