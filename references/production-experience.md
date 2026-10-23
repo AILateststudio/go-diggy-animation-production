@@ -172,7 +172,7 @@ Go! Diggy 的常规分镜以约十秒作为设计节奏，是为了让 3–6 岁
 
 ## 12. 用宣传片介绍这套经验
 
-[![观看项目已有的30秒宣传片](../assets/gallery/promo-cover.png)](https://github.com/stonecanon/go-diggy-animation-production/raw/refs/heads/main/demo/go-diggy-promo-zh.mp4)
+[![观看项目已有的30秒宣传片](../assets/gallery/promo-cover.png)](https://github.com/AILateststudio/go-diggy-animation-production/raw/refs/heads/main/demo/go-diggy-promo-zh.mp4)
 
 [中文版宣传片](../demo/go-diggy-promo-zh.mp4) · [English promo](../demo/go-diggy-promo-en.mp4)
 

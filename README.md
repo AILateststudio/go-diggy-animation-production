@@ -8,7 +8,7 @@
 
 点击封面查看中文版30秒宣传片，也可下载英文版。这里使用项目已有的 v05 宣传片文件。
 
-[![Go! Diggy 宣传片](assets/gallery/promo-cover.png)](https://github.com/stonecanon/go-diggy-animation-production/raw/refs/heads/main/demo/go-diggy-promo-zh.mp4)
+[![Go! Diggy 宣传片](assets/gallery/promo-cover.png)](https://github.com/AILateststudio/go-diggy-animation-production/raw/refs/heads/main/demo/go-diggy-promo-zh.mp4)
 
 [中文版 MP4](demo/go-diggy-promo-zh.mp4) · [English MP4](demo/go-diggy-promo-en.mp4)
 
