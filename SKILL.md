@@ -1,6 +1,6 @@
 ---
 name: go-diggy-animation-production
-description: Turn a Go! Diggy brief and confirmed character assets into a traceable storyboard, Doubao handoff, archived-media audit, real-audio subtitle package, and evidence-backed delivery. Use for new episodes, promos, covers, production write-ups, or reusable handoffs; do not use it to override the project's current master specification.
+description: Turn a Go! Diggy brief and confirmed character assets into a traceable storyboard, Doubao handoff, archived-media audit, real-audio subtitle package, and evidence-backed delivery. Use for new episodes, promos, covers, production write-ups, or reusable handoffs; enforce two intentional camera positions per shot, action-triggered changes, explicit role/vehicle identity, pauses, and evidence-backed delivery; do not use it to override the project's current master specification.
 metadata:
   short-description: Build traceable Go! Diggy episode packages
 ---
@@ -34,6 +34,10 @@ The current project documents are the authority. This skill, the author's relate
 - **Preserve replayability.** Keep the manifest, source paths, prompt version, edit timeline, ASR/subtitle source, QA evidence, and change notes together. Do not overwrite an older candidate before the new one is verified.
 - **Respect the current output contract.** The current series contract is 720p: 1280×720 for horizontal and 720×1280 for vertical video. Follow the selected appendix for subtitle coordinates, Logo behavior, and delivery variants. Do not silently revive historical 1080p settings.
 - **Keep the character base clean and child-safe.** Do not add heavy mud, grime, logos, or body alterations unless the story and current project rules explicitly require them. Rolly's normal wide drum must remain normal and wide.
+- **Every shot prompt uses two real camera positions.** A roughly ten-second shot must fuse at most two genuinely different positions in the same copyable paragraph; the second position cannot be a digital zoom, crop, or coaxial slide. Change position when an action changes—such as braking, a hand gesture, bucket movement, bridge movement, material entering water, or a vehicle entering—rather than using a fixed mid-shot cut. Prefer spatially readable changes such as wide-to-medium reaction or action-medium-to-mechanical insert; use only motivated tracking, lateral movement, gentle push/pull, low-angle lift, waterline diagonal slide, or action-triggered cuts. Keep the established axis; do not use random shake, spinning, fast zooms, meaningless orbits, pure rear/side-rear views, or angles that hide character identity.
+
+- **Name each on-screen character or vehicle by type.** In every shot paragraph, the first mention of each actual on-screen subject must include its name, human/vehicle type, one or two fixed recognition points, and its current action. Never give the generator only a name such as Ben or Diggy. Use the confirmed project index: Ben/小本 is the builder human, Diggy/迪奇 is the yellow excavator, Rolly/罗利 is the teal-green road roller with a normally wide drum, Dumpy/丹比 is the red-and-yellow small dump truck, and Carry/凯瑞 is the flatbed truck. Describe only subjects actually appearing in that shot; type descriptions must not add extra characters or vehicles.
+
 - **Do not publish secrets.** Never put tokens, API keys, private attachments, or local absolute paths into the Skill, README, manifest examples, Git history, or public issue. Public publishing requires a specific destination repository; creating or pushing to one is a separate authorized action.
 
 ## Production loop
@@ -58,7 +62,7 @@ Build about ten storyboard beats for a normal episode. Treat ten seconds as a pl
 - camera and composition;
 - negative constraints: no text, subtitles, Logo, watermark, extra vehicles, or character deformation.
 
-One independent, copyable prompt belongs to one shot. Preserve prop and object state across adjacent shots.
+One independent, copyable prompt belongs to one shot. The paragraph must include each actual on-screen subject's name, human/vehicle type, fixed recognition point, and current action on first mention; it must also fuse the spatial axis, two motivated camera positions, camera movement, dialogue intent, speech speed, pauses, and negative constraints. Preserve prop and object state across adjacent shots.
 
 ### 4. Handoff to generation
 
