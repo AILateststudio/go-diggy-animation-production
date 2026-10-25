@@ -38,6 +38,7 @@ The current project documents are the authority. This skill, the author's relate
 
 - **Name each on-screen character or vehicle by type.** In every shot paragraph, the first mention of each actual on-screen subject must include its name, human/vehicle type, one or two fixed recognition points, and its current action. Never give the generator only a name such as Ben or Diggy. Use the confirmed project index: Ben/小本 is the builder human, Diggy/迪奇 is the yellow excavator, Rolly/罗利 is the teal-green road roller with a normally wide drum, Dumpy/丹比 is the red-and-yellow small dump truck, and Carry/凯瑞 is the flatbed truck. Describe only subjects actually appearing in that shot; type descriptions must not add extra characters or vehicles.
 
+- **Keep speech and reaction timing child-readable.** Use roughly 110–125 WPM for explanation, 125–140 WPM for short action peaks, leave about 0.4–0.7 seconds after a key action and 0.7–1.0 seconds for a fault/reaction beat, and derive final subtitles only from the actual archived audio and ASR/listening review.
 - **Do not publish secrets.** Never put tokens, API keys, private attachments, or local absolute paths into the Skill, README, manifest examples, Git history, or public issue. Public publishing requires a specific destination repository; creating or pushing to one is a separate authorized action.
 
 ## Production loop
